@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
-    "java.debug.settings.vmArgs": "-Djava.library.path=lib/jinput-2.0.10-natives-all",
+    "java.debug.settings.vmArgs": "-Djava.library.path=lib/jinput-2.0.10-natives-all --enable-native-access=ALL-UNNAMED",
     "java.project.referencedLibraries": {
         "include": [
             "lib/**/*.jar"
