@@ -4,7 +4,7 @@ import br.com.davidbuzatto.jsge.core.engine.EngineFrame;
  * Modelo para desenvolvimento de exercícios criativos em Java 2D.
  * 
  * @author Prof. Dr. David Buzatto
- * @copyright Copyright (c) 2025
+ * @copyright Copyright (c) 2026
  */
 public class Main extends EngineFrame {
 
